@@ -16,6 +16,10 @@
     /* animation */
     --animation-duration: transform 300ms ease-in;
   }
+
+  html {
+    font-family: 'Inter'
+  }
   
   button{
     border: none;
