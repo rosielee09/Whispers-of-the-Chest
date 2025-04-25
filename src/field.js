@@ -50,12 +50,12 @@ export class Field {
 
   onClick = event => {
     const target = event.target;
-    if(target.matches('.mermaid')){
+    if(target.matches('.treasure')){
       target.remove();      
-      sound.playMermaid();    
-      this.onItemClick && this.onItemClick(ItemType.mermaid);
-      } else if(target.matches('.treasure')){
+      sound.playTreasure();    
       this.onItemClick && this.onItemClick(ItemType.treasure);
+      } else if(target.matches('.mermaid')){
+      this.onItemClick && this.onItemClick(ItemType.mermaid);
     }
   }
 }
