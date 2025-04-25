@@ -9,9 +9,9 @@ export const ItemType = Object.freeze({
 })
 
 export class Field {
-  constructor(mermaidCount, treasureCounth) {
+  constructor(mermaidCount, treasureCount) {
     this.mermaidCount = mermaidCount;
-    this.treasureCounth = treasureCounth;
+    this.treasureCount = treasureCount;
 
     this.field = document.querySelector('.game__field');
     this.fieldRect = this.field.getBoundingClientRect();
@@ -21,7 +21,7 @@ export class Field {
   init() {
     this.field.innerHTML = '';
     this.fieldRect = this.field.getBoundingClientRect();
-    this._addItem('treasure', this.treasureCounth, 'assets/treasure.svg');
+    this._addItem('treasure', this.treasureCount, 'assets/treasure.svg');
     this._addItem('mermaid', this.mermaidCount, 'assets/mermaid.png');
   }
 
