@@ -108,7 +108,7 @@ body {
   color: var(--text-color);
   text-align: center;
   margin: auto;
-  transform: translateY(-400%);
+  transform: translateY(-300%);
 }
 
 .pop-up--hide {
