@@ -35,8 +35,8 @@
   
   .game {
     background: URL("./assets/game-background.png") center/cover no-repeat;
-    width: 50rem;
-    height: 31.25rem;
+    width: 120rem;
+    height: 67.5rem;
     display: flex;
     flex-direction: column;
     margin: auto;
