@@ -2,7 +2,7 @@
 import * as sound from './sound.js';
 
 
-const FISH_SIZE = 80;
+const TREASURE_SIZE = 80;
 export const ItemType = Object.freeze({
     mermaid: 'mermaid',
     treasure: 'treasure',
