@@ -128,6 +128,12 @@ body {
   display: block;
   font-size: var(--size-lg);
 }
+
+.mermaid,
+.treasure {
+  width: 80px;   /* adjust size as you like */
+  height: 80px;
+}
 .mermaid:hover,
 .treasure:hover {
   cursor: pointer;
