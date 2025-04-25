@@ -18,15 +18,15 @@ game.setGameStopListener((reason)=>{
   switch(reason){
     case Reason.cancel:
       message = 'Oops..Replay ❓';
-      sound.playAlert();
+      sound.alertSound();
       break;
     case Reason.win:
-      message = 'You Saved all Fishes 💚';
-      sound.playwin();
+      message = 'You collected all treasure 💰';
+      sound.winSound();
       break;
     case Reason.lose:
-      message = 'Fishes will..be.. 💩';
-      sound.playFish();
+      message = 'Too slow! The mermaid stole your treasures! 🧜‍♀️🏴‍☠️';
+      sound.treasureSound();
       break;
     default:
       throw new Error('not valid reason');
