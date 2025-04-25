@@ -1,4 +1,4 @@
-'use strcit';
+'use strict';
 
 // fish = mermaid
 // garbage = treasure
