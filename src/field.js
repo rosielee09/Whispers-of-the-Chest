@@ -52,7 +52,7 @@ export class Field {
     const target = event.target;
     if(target.matches('.mermaid')){
       target.remove();      
-      sound.playTrash();    
+      sound.playMermaid();    
       this.onItemClick && this.onItemClick(ItemType.mermaid);
       } else if(target.matches('.treasure')){
       this.onItemClick && this.onItemClick(ItemType.treasure);
