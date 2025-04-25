@@ -25,7 +25,7 @@ game.setGameStopListener((reason)=>{
       sound.playwin();
       break;
     case Reason.lose:
-      message = 'Too slow! The mermaid stole your treasures! 🧜‍♀️🏴‍☠️';
+      message = 'You lost! The mermaid captured you 🧜‍♀️🏴‍☠️'';
       sound.playTreasure();
       break;
     default:
