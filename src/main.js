@@ -8,8 +8,8 @@ import * as sound from './sound.js';
 const gameFinishBanner = new PopUp();
 const game = new GameBuilder()
   .withGameDuration(13)
-  .withFshCount(17)
-  .withGarbageCount(17)
+  .withMermaidCount(17)
+  .withTreasureCount(17)
   .build();
 
 game.setGameStopListener((reason)=>{
