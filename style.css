@@ -80,9 +80,10 @@ body {
 
 .game__timer {
   width: 80px;
-  background-color: #cae7d3;
-  color: var(--accent-color);
-  border: 3px solid;
+  height: 32px;
+  background: URL("./assets/Timer bg.png") center/cover no-repeat;
+  color: white;
+  /* border: 3px solid; */
   text-align: center;
   font-size: var(--size-md);
   margin-top: 0.5rem;
