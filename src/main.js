@@ -3,8 +3,6 @@ import PopUp from './popup.js';
 import {GameBuilder,  Reason}  from './game.js';
 import * as sound from './sound.js';
 
-
-
 const gameFinishBanner = new PopUp();
 const game = new GameBuilder()
   .withGameDuration(13)
