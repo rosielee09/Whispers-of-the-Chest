@@ -67,11 +67,12 @@ body {
   width: var(--btn-width);
   height: var(--btn-height);
   text-align: center;
-  line-height: 60px;
+  line-height: 80px;
   font-size: var(--size-lg);
-  background-color: var(--accent-color);
+  background: URL("./assets/treasurebag counter.png") center/cover no-repeat;
+  width: 50px;
+  height: 60px;
   color: var(--text-color);
-  border-radius: 50%;
   margin-top: 0.5rem;
   visibility: hidden;
   cursor: auto;
@@ -80,7 +81,8 @@ body {
 
 .game__timer {
   width: 80px;
-  height: 32px;
+  height: 40px;
+  line-height: 40px;
   background: URL("./assets/Timer bg.png") center/cover no-repeat;
   color: white;
   /* border: 3px solid; */
