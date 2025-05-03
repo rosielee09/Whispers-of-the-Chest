@@ -16,7 +16,7 @@ Visit the live game [Here!](https://rosielee09.github.io/Whispers-of-the-Chest)
 ## Game Development Process
 
 1. Designing the Game Logic Diagram:
-![Untitled (2)](https://github.com/user-attachments/assets/3a47bc04-cc27-4a75-bbce-7ab371f143b9)
+<img src="https://github.com/user-attachments/assets/3a47bc04-cc27-4a75-bbce-7ab371f143b9" width="500"/>
 
 <img src="https://github.com/rosielee09/Save-fish-game/assets/123128268/713a29dc-1bfd-4e97-a153-b376fe7c19de" alt="html5" width="400" height="400"/>
 
