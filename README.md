@@ -1,7 +1,15 @@
 # Whispers-of-the-Chest
 
 ## How to Start the Game
+**Option1.**
 1. Visit the live game [Here!](https://rosielee09.github.io/Whispers-of-the-Chest/)
+   
+**Option2.**
+How to Run This Project Locally
+1. Download the Project
+2. Open the Project in VS Code
+3. Install Live Server Extension
+4. Run the Project
 
 ## How to Play?
 1. Click the Start button to begin the game
