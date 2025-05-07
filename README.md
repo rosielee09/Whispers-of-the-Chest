@@ -2,7 +2,8 @@
 
 ## How to Start the Game
 **Option1.**
-1. Visit the live game [Here!](https://rosielee09.github.io/Whispers-of-the-Chest/)
+Visit the live game 
+[Click Here!](https://rosielee09.github.io/Whispers-of-the-Chest/)
    
 **Option2.**
 How to Run This Project Locally
