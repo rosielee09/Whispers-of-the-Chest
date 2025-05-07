@@ -2,7 +2,7 @@
   /* color */
   --text-color: white;
   --background-color: #331a7f;
-  --accent-color: #5c62d6;
+  --accent-color: #204f8c;
   /* size */
   --size-lg: 32px;
   --size-md: 26px;
@@ -18,7 +18,7 @@
 }
 
 html {
-  font-family: "Inter";
+  font-family: "Tagesschrift", system-ui;
 }
 
 button {
@@ -225,4 +225,10 @@ body {
     -webkit-animation-timing-function: ease-out;
     animation-timing-function: ease-out;
   }
+}
+
+.tagesschrift-regular {
+  font-family: "Tagesschrift", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
