@@ -25,10 +25,12 @@ How to Run This Project Locally
 ## Game Development Process
 
 1. Designing the Game Logic Diagram:
+   ![Untitled (1)](https://github.com/user-attachments/assets/707212c0-9ffc-4a62-bf72-dcaec6e3c1ba)
+
 <img src="https://github.com/user-attachments/assets/3a47bc04-cc27-4a75-bbce-7ab371f143b9" width="700"/>
 
 
-2. Implementing Function-Based Coding:
+3. Implementing Function-Based Coding:
    - Game Field Creation & Random Item Placement
    - Variable Management to track the game's status
    - Event Listeners for game buttons
@@ -36,7 +38,7 @@ How to Run This Project Locally
    - Game Timer implementation
    - Item Click Handlers: distinguishing between mermaid (causing death) and treasure (increasing the score)
    - Sound Integration and Error Fixing 
-3. Refactor using OOP
+4. Refactor using OOP
    - Improved code organization and maintainability by applying OOP principles
    - Restructured components into separate classes for clarity and ease of maintenance
 
