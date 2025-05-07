@@ -25,13 +25,13 @@
    - Event Listeners for game buttons
    - Functions to start and stop the game
    - Game Timer implementation
-   - Item Click Handlers: distinguishing between fish (causing death) and trash (increasing the score)
+   - Item Click Handlers: distinguishing between mermaid (causing death) and treasure (increasing the score)
    - Sound Integration and Error Fixing 
 3. Refactor using OOP
    - Improved code organization and maintainability by applying OOP principles
    - Restructured components into separate classes for clarity and ease of maintenance
 
-## What We learned
+## What We Learned
 1. Visualizing the big picture for effective planning and development.
 2. Leveraging the power of small, reusable functions to tackle complex tasks.
 3. Utilizing event bubbling and delegation for efficient event handling.
