@@ -101,11 +101,9 @@ body {
 }
 
 .pop-up {
-  width: 400px;
-  height: 140px;
-  padding: 20px;
-  border-radius: var(--border-radius-lg);
-  background-color: #00000090;
+  width: 420px;
+  height: 231px;
+  background: URL("./assets/dialog.png") center/cover no-repeat;
   color: var(--text-color);
   text-align: center;
   margin: auto;
@@ -123,11 +121,14 @@ body {
   background-color: var(--accent-color);
   color: var(--text-color);
   border-radius: 50%;
+  text-align: center;
+  transform: translateY(40%);
 }
 
 .pop-up__message {
   display: block;
   font-size: var(--size-lg);
+  transform: translateY(40%);
 }
 
 .mermaid,
