@@ -1,7 +1,7 @@
 # Whispers-of-the-Chest
 
-## Play the Game
-Visit the live game [Here!](https://rosielee09.github.io/Whispers-of-the-Chest/)
+## How to Start the Game
+1. Visit the live game [Here!](https://rosielee09.github.io/Whispers-of-the-Chest/)
 
 ## How to Play?
 1. Click the Start button to begin the game
